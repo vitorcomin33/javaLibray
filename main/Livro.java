@@ -16,7 +16,7 @@ public class Livro {
 
          public void cadastrarLivro() {
 
-            System.out.println(Livro "Livro" cadastrado);
+             System.out.println("Livro '" + nome + "' cadastrado!");
 
          }
      }
