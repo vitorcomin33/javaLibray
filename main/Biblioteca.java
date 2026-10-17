@@ -1,8 +1,9 @@
 import java.util.ArrayList;
+import java.util.List;
 
 public class Biblioteca {
 
-    private ArrayList<Livro> livros = new ArrayList<>();
+    private List<Livro> livros = new ArrayList<>();
 
     public void guardarLivro(Livro livro) {
 
