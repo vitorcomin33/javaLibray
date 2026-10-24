@@ -35,7 +35,7 @@ public class Livro {
         public void exibirInformacoes() {
             System.out.println("Nome: " + nome);
             System.out.println("Autor: " + autor);
-            System.out.println("Ano: " + ano);
+            System.out.println("Data: " + data);
             System.out.println("Páginas: " + numPaginas);
          }
      }
