@@ -35,7 +35,7 @@ Também quero implementar algumas validações, como impedir que um livro já em
 - Manipulação de listas com `ArrayList`.
 - Resolução de problemas e tratamento de situações inesperadas.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - Java
 - Git e GitHub
