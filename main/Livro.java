@@ -14,10 +14,29 @@ public class Livro {
 
          }
 
-         public void cadastrarLivro() {
 
-             System.out.println("Livro '" + nome + "' cadastrado!");
+         public String getNome() {
+            return nome;
+         }
 
+         public String getAutor() {
+            return autor;
+         }
+
+         public int getData() {
+            return data;
+         }
+
+         public int getNumPaginas() {
+            return numPaginas;
+         }
+
+
+        public void exibirInformacoes() {
+            System.out.println("Nome: " + nome);
+            System.out.println("Autor: " + autor);
+            System.out.println("Data: " + data);
+            System.out.println("Páginas: " + numPaginas);
          }
      }
 
