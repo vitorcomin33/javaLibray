@@ -1,18 +1,18 @@
 # javaLibray#
 
-📚 Sistema de Biblioteca em Java
+Sistema de Biblioteca em Java
 
 Esse projeto surgiu com a ideia de colocar em prática o que estou aprendendo sobre Java e Programação Orientada a Objetos (POO).
 
 A proposta é desenvolver um sistema simples de biblioteca, onde seja possível cadastrar livros, consultar informações, realizar empréstimos e registrar devoluções. A ideia é aprender na prática, entender como cada parte do código funciona e melhorar minhas habilidades com o desenvolvimento de software.
 
-## 🎯 Objetivo
+## Objetivo
 
 O principal objetivo é praticar os conceitos básicos de Java e entender melhor como funciona a programação orientada a objetos, em vez de ficar apenas na teoria.
 
 Durante o desenvolvimento, pretendo trabalhar com classes, objetos, atributos, métodos, construtores, estruturas de controle e encapsulamento.
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 O sistema contará com um menu no console com as seguintes opções:
 
@@ -25,7 +25,7 @@ O sistema contará com um menu no console com as seguintes opções:
 
 Também quero implementar algumas validações, como impedir que um livro já emprestado seja emprestado novamente e informar quando uma pesquisa não encontrar resultados.
 
-## 🧠 O que quero praticar
+## O que quero praticar
 
 - Criação e utilização de classes e objetos.
 - Uso de construtores para inicializar objetos.
@@ -43,7 +43,7 @@ Também quero implementar algumas validações, como impedir que um livro já em
 
 Inicialmente, o projeto será feito com Java puro, sem frameworks ou banco de dados, para manter o foco nos fundamentos da linguagem.
 
-## 📌 Etapas do projeto
+## Etapas do projeto
 
 - [ ] Criar a classe `Livro`.
 - [ ] Implementar os atributos, o construtor e os métodos.
@@ -55,13 +55,13 @@ Inicialmente, o projeto será feito com Java puro, sem frameworks ou banco de da
 - [ ] Testar as funcionalidades e corrigir possíveis erros.
 - [ ] Revisar e organizar o código.
 
-## 🚀 Próximos passos
+## Próximos passos
 
 Depois de concluir a primeira versão, pretendo explorar algumas melhorias, como salvar os livros em arquivos ou em um banco de dados, criar testes automatizados e adicionar novas funcionalidades.
 
 Por enquanto, o foco é construir uma base sólida e entender cada parte da implementação antes de partir para coisas mais avançadas.
 
-## 📖 Sobre
+## Sobre
 
 Este é um projeto de estudo desenvolvido para praticar Java e consolidar os conhecimentos adquiridos em Programação Orientada a Objetos. A ideia é evoluir o projeto aos poucos, aprendendo com os erros e buscando escrever um código cada vez melhor.
 
